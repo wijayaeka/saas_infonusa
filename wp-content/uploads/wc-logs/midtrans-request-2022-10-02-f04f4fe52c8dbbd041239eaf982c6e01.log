@@ -1,0 +1,148 @@
+2022-10-02T21:26:53+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log Sun, 02 Oct 2022 21:26:53 +0000====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 21
+            [gross_amount] => 1000000000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => guest
+            [last_name] => infomedia
+            [email] => saas_infonusa@gmail.com
+            [phone] => 123345
+            [billing_address] => Array
+                (
+                    [first_name] => guest
+                    [last_name] => infomedia
+                    [address] => Jakarta
+                    [city] => jakarta
+                    [postal_code] => 1234
+                    [phone] => 123345
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => guest
+                    [last_name] => infomedia
+                    [address] => Jakarta
+                    [city] => jakarta
+                    [postal_code] => 1234
+                    [phone] => 123345
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13
+                    [price] => 1000000000
+                    [quantity] => 1
+                    [name] => Infomedia OmniX
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.1
+                    [wc] => 6.9.4
+                    [php] => 7.4.21
+                )
+
+        )
+
+)
+
+====End Log Sun, 02 Oct 2022 21:26:53 +0000 (0)====
+
+
+2022-10-02T21:34:27+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log Sun, 02 Oct 2022 21:34:27 +0000====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 22
+            [gross_amount] => 3000000000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => guest
+            [last_name] => infomedia
+            [email] => saas_infonusa@gmail.com
+            [phone] => 123345
+            [billing_address] => Array
+                (
+                    [first_name] => guest
+                    [last_name] => infomedia
+                    [address] => Jakarta
+                    [city] => jakarta
+                    [postal_code] => 1234
+                    [phone] => 123345
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => guest
+                    [last_name] => infomedia
+                    [address] => Jakarta
+                    [city] => jakarta
+                    [postal_code] => 1234
+                    [phone] => 123345
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 13
+                    [price] => 1000000000
+                    [quantity] => 3
+                    [name] => Infomedia OmniX
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 1
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.1
+                    [wc] => 6.9.4
+                    [php] => 7.4.21
+                )
+
+        )
+
+)
+
+====End Log Sun, 02 Oct 2022 21:34:27 +0000 (0)====
+
+

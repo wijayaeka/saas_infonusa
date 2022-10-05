@@ -1,0 +1,43 @@
+2022-10-04T09:00:18+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log====
+Array
+(
+    [va_numbers] => Array
+        (
+            [0] => Array
+                (
+                    [va_number] => 9887405938364163
+                    [bank] => bni
+                )
+
+        )
+
+    [transaction_time] => 2022-10-04 15:24:31
+    [transaction_status] => settlement
+    [transaction_id] => 8396844d-ddd9-43f5-881f-a4f2166ad7f4
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => ac7532913e123fc44eee972bc1c6577fbfe85df42aa2e1921c50d24961b909f038163f20ed100bbad4464e9cc1fe63bc36c6064dabd2c3d3aeff29bb6619632c
+    [settlement_time] => 2022-10-04 15:24:51
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+            [0] => Array
+                (
+                    [paid_at] => 2022-10-04 15:24:51
+                    [amount] => 1100000000.00
+                )
+
+        )
+
+    [order_id] => 94
+    [merchant_id] => G823474059
+    [gross_amount] => 1100000000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+====End Log====
+
+

@@ -1,0 +1,82 @@
+2022-10-05T08:08:13+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log Wed, 05 Oct 2022 08:08:13 +0000====
+Array
+(
+    [transaction_details] => Array
+        (
+            [order_id] => 119
+            [gross_amount] => 165000000
+        )
+
+    [customer_details] => Array
+        (
+            [first_name] => eka
+            [last_name] => purnama
+            [email] => ekawijaya2013@gmail.com
+            [phone] => 123345
+            [billing_address] => Array
+                (
+                    [first_name] => eka
+                    [last_name] => purnama
+                    [address] => Jakarta
+                    [city] => jakarta
+                    [postal_code] => 1234
+                    [phone] => 123345
+                    [country_code] => IDN
+                )
+
+            [shipping_address] => Array
+                (
+                    [first_name] => eka
+                    [last_name] => purnama
+                    [address] => Jakarta
+                    [city] => jakarta
+                    [postal_code] => 1234
+                    [phone] => 123345
+                    [country_code] => IDN
+                )
+
+        )
+
+    [item_details] => Array
+        (
+            [0] => Array
+                (
+                    [id] => 15
+                    [price] => 150000000
+                    [quantity] => 1
+                    [name] => Infomedia Mimin
+                )
+
+            [1] => Array
+                (
+                    [id] => taxfee
+                    [price] => 15000000
+                    [quantity] => 1
+                    [name] => Tax
+                )
+
+        )
+
+    [credit_card] => Array
+        (
+            [secure] => 
+        )
+
+    [metadata] => Array
+        (
+            [x_midtrans_wc_plu] => Array
+                (
+                    [version] => 2.32.1
+                    [wc] => 6.9.4
+                    [php] => 7.4.21
+                )
+
+        )
+
+)
+
+====End Log Wed, 05 Oct 2022 08:08:13 +0000 (0)====
+
+

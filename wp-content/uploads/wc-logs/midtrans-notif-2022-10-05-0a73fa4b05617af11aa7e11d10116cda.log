@@ -1,0 +1,86 @@
+2022-10-05T08:10:57+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log====
+Array
+(
+    [va_numbers] => Array
+        (
+            [0] => Array
+                (
+                    [va_number] => 9887405990846311
+                    [bank] => bni
+                )
+
+        )
+
+    [transaction_time] => 2022-10-05 15:09:23
+    [transaction_status] => settlement
+    [transaction_id] => 076b0b69-ba35-460d-9309-fe9475296418
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => 2935e185a8e879d9d5f60048f9d9aa40d88ed51e1453025a50e6ace754588215eb8a4b300d4412223efe4f81aaa97f2584a569e0d133e8b7f550ea76bea9776d
+    [settlement_time] => 2022-10-05 15:09:35
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+            [0] => Array
+                (
+                    [paid_at] => 2022-10-05 15:09:35
+                    [amount] => 165000000.00
+                )
+
+        )
+
+    [order_id] => 119
+    [merchant_id] => G823474059
+    [gross_amount] => 165000000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+====End Log====
+
+
+2022-10-05T08:20:44+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log====
+Array
+(
+    [va_numbers] => Array
+        (
+            [0] => Array
+                (
+                    [va_number] => 9887405990846311
+                    [bank] => bni
+                )
+
+        )
+
+    [transaction_time] => 2022-10-05 15:09:23
+    [transaction_status] => settlement
+    [transaction_id] => 076b0b69-ba35-460d-9309-fe9475296418
+    [status_message] => midtrans payment notification
+    [status_code] => 200
+    [signature_key] => 2935e185a8e879d9d5f60048f9d9aa40d88ed51e1453025a50e6ace754588215eb8a4b300d4412223efe4f81aaa97f2584a569e0d133e8b7f550ea76bea9776d
+    [settlement_time] => 2022-10-05 15:09:35
+    [payment_type] => bank_transfer
+    [payment_amounts] => Array
+        (
+            [0] => Array
+                (
+                    [paid_at] => 2022-10-05 15:09:35
+                    [amount] => 165000000.00
+                )
+
+        )
+
+    [order_id] => 119
+    [merchant_id] => G823474059
+    [gross_amount] => 165000000.00
+    [fraud_status] => accept
+    [currency] => IDR
+)
+
+====End Log====
+
+

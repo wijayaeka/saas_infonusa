@@ -1,0 +1,14 @@
+2022-10-03T04:45:47+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log Mon, 03 Oct 2022 04:45:47 +0000====
+Midtrans Error (401): {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://snap-docs.midtrans.com/#request-headers for more details"]} | Request url: https://app.sandbox.midtrans.com/snap/v1/transactions
+====End Log Mon, 03 Oct 2022 04:45:47 +0000 (0)====
+
+
+2022-10-03T04:55:16+00:00 DEBUG 
+====Midtrans Plugin Version: 2.32.1====
+====Start Log Mon, 03 Oct 2022 04:55:16 +0000====
+Midtrans Error (401): {"error_messages":["Access denied due to unauthorized transaction, please check client or server key","Visit https://snap-docs.midtrans.com/#request-headers for more details"]} | Request url: https://app.sandbox.midtrans.com/snap/v1/transactions
+====End Log Mon, 03 Oct 2022 04:55:16 +0000 (0)====
+
+
